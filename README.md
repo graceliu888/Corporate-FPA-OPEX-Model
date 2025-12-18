@@ -39,26 +39,4 @@ The dataset simulates a real multi-function corporate environment:
 - Legal  
 - Operations  
 
----
-
-## 📁 Project Structure
-Corporate-FPA-OPEX-Model/
-│
-├── data/
-│     └── opex_cost_center_data.csv   ← 我会帮你生成
-│
-├── models/
-│     └── opex_model.py               ← Python 模型
-│
-├── dashboards/
-│     └── powerbi_dashboard.pbix      ← 我后面帮你做结构
-│
-├── scripts/
-│     ├── variance_analysis.py
-│     └── forecast_pipeline.py
-│
-├── README.md                         ←我直接写给你
-│
-└── requirements.txt
-
 
